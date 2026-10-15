@@ -5,7 +5,7 @@ Are academic reports I've done with other students.
 
 ## data-analysis-tool.html:
 
-Is a data analysis tool made for a dataset from a statistics course and can be used at https://ok13214356.github.io/Projects/data-analysis-tool.html
+Is a data analysis tool made for a dataset from a statistics course and can be accessed at https://ok13214356.github.io/Projects/data-analysis-tool.html
 
 
 ## business-health-diagnostic.html: 
